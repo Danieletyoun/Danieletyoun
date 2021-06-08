@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danieletyoun
-- 👀 I’m interested in ... machine learning engenearing
+- 👀 I’m interested in ... machine learning engeneering
 - 🌱 I’m currently learning ...java, python for data science
-- 💞️ I’m looking to collaborate on ... cloud tracking
+- 💞️ I’m looking to collaborate on ... software engineering
 - 📫 How to reach me ... danietyoung@gmail.com
 
 <!---
